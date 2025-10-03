@@ -5,7 +5,7 @@ async function generateResponcse(content){
  
     const responce = await ai.models.generateContent({
         model:"gemini-2.0-flash",
-        contents: prompt
+        contents: content
        
     })
 
