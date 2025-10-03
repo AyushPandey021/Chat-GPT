@@ -26,4 +26,3 @@ module.exports = chatModel
 
 
 
-// 1.25 min 
